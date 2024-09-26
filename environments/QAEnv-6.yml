@@ -1,0 +1,14 @@
+fileVersion: 1
+id: "6"
+mappingDefinitions:
+  RAW_CUSTOMER:
+    database: FROSTBYTE_TASTY_BYTES
+    schema: RAW_CUSTOMER
+  RAW_POS:
+    database: FROSTBYTE_TASTY_BYTES
+    schema: RAW_POS
+  TARGET:
+    database: FROSTBYTE_TASTY_BYTES
+    schema: PUBLIC
+name: QA Env
+type: Environment
